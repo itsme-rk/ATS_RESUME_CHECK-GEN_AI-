@@ -1,0 +1,5 @@
+1. space to add the jd 
+2.uploading pdf
+3. conver pdf to image
+4.proecssing adn sending to gemini
+5.prompt
